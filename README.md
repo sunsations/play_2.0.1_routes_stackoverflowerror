@@ -9,7 +9,7 @@ In my project I would like to have clean URLs. Thus I creates entries in conf/ro
     GET   /:countryCode  controllers.Application.country(countryCode: String)
 
 
-Any help on how to prevent the error is highly appriciated.
-Maybe there is also a much more elegant solution to this propblem.
+Any help on how to prevent the error is highly appreciated.
+Maybe there is also a much more elegant solution to this problem.
 
 Thank you for your help.
